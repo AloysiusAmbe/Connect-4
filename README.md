@@ -6,4 +6,4 @@ unoccupied row of that column. As soon as a column contains 6 pieces, it is full
 
 ### Download code
 The source code can be downloaded by initializing a git repo and using
-  - git clone 
+  - git clone https://github.com/AloysiusAmbe/Connect-4.git
