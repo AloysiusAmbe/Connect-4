@@ -4,6 +4,5 @@ Each player uses a pieces ('X' and 'O'), and the objective is to be the first to
 four pieces in a horizontal, vertical, or diagonal line. Because the board is vertical, pieces inserted in a given column always drop to the lowest
 unoccupied row of that column. As soon as a column contains 6 pieces, it is full and no other piece can be placed in the column.
 
-### Download code
 The source code can be downloaded by initializing a git repo and using
   - git clone https://github.com/AloysiusAmbe/Connect-4.git
